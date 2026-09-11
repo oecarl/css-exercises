@@ -1,27 +1,19 @@
 /* Add CSS Styling */
-.odd-1 {
-    background-color: #ffc0cb;
+.odd{
+    background-color: lightpink;
     font-family: Verdana, DejaVu Sans, sans-serif;
 }
 
-.odd-3 {
-    background-color: hwb(350 75% 0%);
-    font-family: Verdana, DejaVu Sans, sans-serif;
-    font-size: 24px;
-}
-
-.odd-5 {
-    background-color: rgb(255, 192, 203);
-    font-family: Verdana, DejaVu Sans, sans-serif;
-}
-
-#even-2 {
-    color: #0000ff;
+#no-2{
+    color: blue;
     font-size: 36px;
 }
 
-#even-4{
-    background-color: rgb(144, 238, 144);
+.adjust-font-size{
     font-size: 24px;
+}
+
+#no-4{
+    background-color: lightgreen;
     font-weight: bold;
 }
